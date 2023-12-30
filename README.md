@@ -1,16 +1,18 @@
 ### Hi there 👋
+✨i'm carla nebreda✨
 
-<!--
-**carlanebre/carlanebre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Software Developer`
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning React & Node.js
+- 🚀 Excited to explore Swift and delve into iOS app development!
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/carlanebre/">**LinkedIn**</a>
+- 📫 Reach out to me at **carla.nebre@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,nodejs,react,java,spring,mongodb,mysql,postgres,php,py,git)](https://skillicons.dev)
+
+### Technologies I aspire to learn
+[![My Skills](https://skillicons.dev/icons?i=swift,ts,nextjs,angular,docker,graphql,aws,gulp,jenkins)](https://skillicons.dev)
+
+Happy coding! 🌟
