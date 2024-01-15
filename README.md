@@ -10,7 +10,7 @@
 - 📫 Reach out to me at **carla.nebre@gmail.com**
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,nodejs,react,java,mongodb,mysql,postgres,php,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,bootstrap,nodejs,java,mongodb,mysql,postgres,php,py,git)](https://skillicons.dev)
 
 ### Technologies I aspire to learn
 [![My Skills](https://skillicons.dev/icons?i=swift,ts,nextjs,angular,docker,graphql,aws,gulp,jenkins)](https://skillicons.dev)
