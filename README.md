@@ -1,5 +1,4 @@
-### Hi there 👋
-### My name is Carla ✨🩰
+### Hello, my name is Carla 👋✨🩰
 
 `Software Developer`
 
